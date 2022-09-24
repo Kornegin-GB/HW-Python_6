@@ -12,7 +12,6 @@
 import random
 
 lst = ["О", "Р"]
-# num = int(input())
 num = 30
 text = ""
 while num > 0:
